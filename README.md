@@ -6,5 +6,6 @@ Satın alınması istenilen ürün için ilanların görüntülenmesi ve bu ilan
  Kullanıcı profili bulunmakta bu bölümde ise giriş yapan kullanıcın iletişim bilgileri yer almaktadır.
 Kullanıcı tarafından verdiği ilanı silebilme ve satın almak istediği ilan için ilan sahibine mesaj gönderebilmektedir ve satıcının bilgilerine gittikten sonra üstüne tıklandığında satıcıya puan verebilmektedir.
 İlanlarım bölümünde kullanıcının kendi yüklediği ilanları görebilmekte ve bu ilanları silebilme özelliği bulunmaktadır
+https://drive.google.com/drive/folders/1i92MBlj1UMczm9NLQFCrxVArfH2aWd_y
 
 ![alt text](https://user-images.githubusercontent.com/86318503/213913097-095ec580-df99-4600-8696-9062e1d92e9b.png)
